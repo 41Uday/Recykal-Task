@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/41Uday/Recykal-Task/static/css/main.12757dbd.css",
+    "main.js": "/41Uday/Recykal-Task/static/js/main.6f306201.js",
+    "static/js/787.0c3f432a.chunk.js": "/41Uday/Recykal-Task/static/js/787.0c3f432a.chunk.js",
+    "index.html": "/41Uday/Recykal-Task/index.html",
+    "main.12757dbd.css.map": "/41Uday/Recykal-Task/static/css/main.12757dbd.css.map",
+    "main.6f306201.js.map": "/41Uday/Recykal-Task/static/js/main.6f306201.js.map",
+    "787.0c3f432a.chunk.js.map": "/41Uday/Recykal-Task/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12757dbd.css",
+    "static/js/main.6f306201.js"
+  ]
+}
