@@ -1,0 +1,74 @@
+.s-9-container {
+    padding-left: 350px;
+    padding-right: 350px;
+    padding-top: 300px;
+    padding-bottom: 150px;
+    background-color: #F6F7F8;
+    height:  800px;
+}
+
+.s-9-img {
+    height: 400px;
+    width: 470px;
+    margin-left: 80px;
+    border-radius: 25px;
+}
+
+.s-9-head-1 {
+    font-size: 40px;
+    text-align: center;
+    font-weight: 700;
+    margin-top: 30px;
+}
+
+.s-9-para-1{
+    font-size: 20px;
+    text-align: center;
+    font-weight :500;
+    margin-top: -15px;
+    color: #05070C;
+}
+
+.s-9-card-1 {
+    margin-top: 30px;
+    background-color: white;
+    height: 430px;
+    border-radius: 15px;
+    padding: 50px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-bottom: 50px;
+    margin-left: -50px;
+}
+
+.s-9-head-2 {
+    font-size: 28px;
+    text-align: left;
+}
+
+.s-9-para-2 {
+    font-size: 20px;
+    text-align: left;
+}
+
+.s-9-card-1-inner-1 {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.s-9-button {
+    height: 50px;
+    width: 300px;
+    border-radius: 25px;
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 130px;
+    border: none;
+}

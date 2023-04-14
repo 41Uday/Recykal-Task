@@ -1,0 +1,69 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  
+  .table-container {
+      width: 100%;
+  }
+
+  .tr-1 {
+    height: 40px;
+  }
+
+  .details-main-container {
+        padding-top: 50px;
+        padding-bottom: 100px;
+        padding-left: 5%;
+        padding-right: 5%;
+  }
+
+  .th-header-1 {
+    min-width: 70px;
+    max-width: 200px;
+  }
+
+  .th-header-2 {
+    width: 450px;
+  }
+
+  
+
+  .no-tr {
+    text-align: center;
+    color: black;
+    margin-top: 50px;
+  }
+
+  .th-header-3 {
+    width: 100px;
+    height: 100px;
+  }
+
+  .th-header-1-1-1 {
+    width: 50px;
+  }
+
+  .btn-success {
+    height: 30px;
+    width: 70px;
+    margin-right: 10px;
+    border-radius: 7px;
+    border: none;
+    background-color: green;
+    color: white;
+    font-family:  sans-serif;
+    cursor: pointer;
+  }
+  
+  .btn-danger {
+    background-color: red ;
+    margin-right: 0;
+  }
+
+  .table-input {
+    border: none;
+    outline: none;
+    font-size: 16px;
+    width: ;
+  }

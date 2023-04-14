@@ -1,0 +1,57 @@
+.s-6-container {
+    padding-left: 350px;
+    padding-right: 350px;
+    margin-bottom: 100px;
+}
+
+.s-6-list-container {
+    margin-left: -35px;
+    font-family: sans-serif;
+}
+
+.s-6-list-item-1 {
+    width: 230px;
+}
+
+.s-6-card-1 {
+    display: flex;
+    align-items: center;
+    margin-bottom: 50PX;
+}
+
+.S-6-card-1-inner-1 {
+    width: 48%;
+    border-radius: 25px;
+    height: 150px;
+    background-color: #C7E4CE;
+    margin-right: 15px;
+    padding: 40px;
+}
+
+.S-6-card-1-inner-2 {
+    background-color: #a2b3c4;
+}
+
+.s-6-head-1 {
+    font-size: 24px;
+    font-family: sans-serif;
+}
+
+.s-6-para-1 {
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+.s-6-head-1-1 {
+    text-align: left;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.s-6-para-1-1 {
+    text-align: left;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    font-family: sans-serif;
+}

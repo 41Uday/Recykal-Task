@@ -1,0 +1,156 @@
+.footer-container {
+    background-color: black;
+    height: 300px;
+    padding-left: 16%;
+    padding-right: 16%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.footer-list-container {
+    list-style-type: none;
+    color: white;
+    margin-right: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.f-list-products {
+    font-weight: 500;
+    font-size: 28px;
+    margin-bottom: 25px;
+    font-family: "Poppins", Sans-serif;
+    line-height: 40px;
+}
+
+.f-list-items {
+    margin-bottom: 20px;
+    color: white;
+    font-size: 18px;
+    text-align: left
+}
+
+.f-list-para-1 {
+    color: white;
+    font-weight: 500;
+    font-size: 22px;
+    margin-bottom: 10px;
+    text-align: left;
+    font-family: sans-serif;
+}
+
+.f-list-para-3 {
+    color: white;
+    font-weight: 500;
+    font-size: 22px;
+    font-family: sans-serif;
+}
+
+.f-span-1 {
+    padding-top: 10px;
+}
+
+.f-list-para-2 {
+    color: white;
+    font-weight: 500;
+    font-size: 22px;
+    margin-top: -10px;
+    font-family: sans-serif;
+}
+
+.f-circle {
+    height: 45px;
+    width: 45px;
+    border-radius: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    margin-right: 7px;
+}
+
+.f-circle-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.f-last-container {
+    height: 60px;
+    background-color: #515151;
+    color: white;
+    padding-left: 300px;
+    padding-right: 300px;
+    display: flex;
+    align-items: center;
+    font-family: sans-serif;
+}
+
+.f-last-para {
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+
+
+.f-list-products-n {
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    list-style-type: none;
+}
+
+.footer-list-container-n-2 {
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    list-style-type: none;
+}
+
+.f-l-container-1 {
+    list-style-type: none;
+}
+
+.f-l-li {
+    color: white;
+    font-size: 22px;
+    color: white;
+    font-family: sans-serif;
+    margin-top: 20px;
+    text-align: left;
+}
+
+.f-l-li-2 {
+    font-size: 26px;
+    font-family: sans-serif;
+    color: white;
+    font-weight: 600;
+    margin-left: -20px;
+}
+
+.f-l-container-2 {
+    list-style-type: none;
+    margin-left: 150px;
+}
+
+
+.f-l-li-2-2 {
+    margin-left: -100px;
+    font-weight: 500 ;
+}
+
+.f-l-li-2-2-1 {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.f-last-card {
+    margin-left: 100px;
+    margin-top: -150px;
+}

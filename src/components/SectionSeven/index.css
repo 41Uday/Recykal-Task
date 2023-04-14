@@ -1,0 +1,30 @@
+.s-7-container {
+    background-color: black;
+    height: 700px;   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.s-7-head {
+    color: white;
+    font-size: 42px;
+    font-family: sans-serif;
+}
+
+.s-7-para-1 {
+    color: white;
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.s-7-l-para {
+    color: #a2d5db;
+    font-weight: 600;
+    font-size: 20px;
+    font-family: sans-serif;
+}

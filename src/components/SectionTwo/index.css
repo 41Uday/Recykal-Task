@@ -1,0 +1,44 @@
+.s-2-head {
+    font-size: 40px;
+    margin-top: 50px;
+    text-align:  center;
+    line-height: 30px;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+
+.s-2-img {
+    height: 150px;
+    width: 150px;
+    margin-right: 20px;
+}
+
+.section-2-container{
+    padding-left: 350px;
+    padding-right: 350px;
+    margin-bottom: 200px;
+}
+
+/* @media screen and (max-width: 1200px) {
+    .section-2-container {
+      padding-left: 100px;
+      padding-right: 100px;
+    }
+  } */
+
+.s-2-anchor-element {
+    font-size: 24px;
+    margin-left: 35px;
+    font-family: sans-serif;
+    text-align: left;
+}
+
+.anchor-container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.marquee-container{
+    text-align: center;
+}

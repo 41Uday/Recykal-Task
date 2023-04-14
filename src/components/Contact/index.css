@@ -1,0 +1,63 @@
+.contact-container {
+    padding-top: 150px;
+    padding-bottom: 150px;
+    background-color: #F6F7F8;
+    text-align: center;   
+    margin-bottom: 150px;
+    margin-top: -30px;
+}
+
+.c-head-1 {
+    font-size: 42px;
+    font-family: sans-serif;
+    /* font-family: ""; */
+}
+
+.c-para-1{
+    font-weight: 600;
+    font-size: 25px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: sans-serif;
+}
+
+.c-para-2 {
+    font-weight: 500;
+    font-size: 28px;
+    font-family: sans-serif;
+}
+
+.c-card-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -40px;
+}
+
+.c-icon {
+    font-size: 30px;
+    margin-right: 10px;
+}
+
+.c-card-3 {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+.c-hr {
+    width: 150px;
+}
+
+
+
+.c-img {
+    width: 250px;
+    height: 25px;
+}
+
+.c-button {
+    width: 250px;
+    margin-top: 25px;
+    margin-left: 25px;
+}

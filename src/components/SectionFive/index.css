@@ -1,0 +1,47 @@
+.s-5-container {
+    padding-left: 350px;
+    padding-right: 350px;
+}
+
+.s-5-img-1 {
+    margin-left: 100px;
+    height: 600px;
+    width: 550px;
+    border-radius: 15px;
+}
+
+.s-5-card-1 {
+    margin-left: -40px;
+    margin-top: -150px;
+    margin-right: -80px;
+}
+
+.s5-li-item {
+    width: 80px;
+}
+
+.s5-li-item-1 {
+    width: 85px;
+}
+
+.s5-li-item-2 {
+    width: 180px;
+}
+
+.s-5-button {
+    width: 180px;
+    margin-left: 50px;
+}
+
+.s-5-h-1 {
+    text-align: left;
+    margin-left: 50px;
+    font-family: sans-serif;
+}
+
+.s-5-p-1 {
+    text-align: left;
+    font-size: 18px;
+    margin-left: 50px;
+    font-family: sans-serif;
+}

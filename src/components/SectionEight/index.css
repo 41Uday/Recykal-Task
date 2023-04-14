@@ -1,0 +1,58 @@
+.s-8-container {
+    text-align: center;
+    /* margin-bottom: 400px; */
+    padding-top: 100px;
+    background-color: #F6F7F8;
+}
+
+.s-8-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.s-8-img-container {
+    background-image: url("https://recykal.com/wp-content/uploads/elementor/thumbs/Sustainability-About-us_Video-Thumbnail-q364ywvmw99zlvi3jdz6v62vt7cyqwpfqx4hwjooe8.png");
+    height: 500px;
+    width: 60%;
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.play-button {
+    margin-top: 200px;
+    color: #F6F7F8;
+    font-size: 105px;
+    margin-left: 50px;
+    cursor: pointer;
+    box-shadow: rgba(220, 220, 233, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    border-radius: 60px;
+}
+
+.s-8-video-container {
+   
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+
+.s-8-cross {
+    font-size: 30px;
+    margin-left: 40px;
+    margin-top: -700px;
+    cursor: pointer;
+}
+
+.s-8-head-1 {
+    font-size: 40px;
+    font-family: sans-serif;
+}
+
+.s-8-para-1 {
+    font-size: 20px;
+    font-family: sans-serif;
+}

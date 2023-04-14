@@ -1,0 +1,31 @@
+.h {
+    font-family: "monospace";
+  }
+  
+  .main-para {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #BCE2D7;
+  }
+  
+  .main-img {
+    height: 22px;
+    width: 22px;
+    margin-right: 15px;
+  }
+  
+  .main-para {
+    font-size: 16px;
+  }
+  
+  .main-para-span {
+    text-decoration: underline;
+    margin-left: 5px;
+  }
+  
+  .container {
+    padding-left: 200px;
+    padding-right: 200px;
+  }
